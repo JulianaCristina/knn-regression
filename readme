@@ -1,0 +1,9 @@
+Para executar a aplicação basta abrir a mesma em uma ide, como eclipse, netbeans ou Intellij
+
+E executar o arquivo main.java
+
+O caminho do arquivo é passado na classe main, caso queira mudar.
+
+O arquivo de teste encontra-se dentro da pasta *resources
+
+*caminho completos: /rc/br/ufu/murilo/resources/data.txt
